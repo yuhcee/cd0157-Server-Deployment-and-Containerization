@@ -86,3 +86,15 @@ Completing the project involves several steps:
 6. Create a CodeBuild stage which will build, test, and deploy your code
 
 For more detail about each of these steps, see the project lesson.
+
+## Submission notes
+
+IP address of your running application
+
+NAME : simple-jwt-api
+TYPE : LoadBalancer
+CLUSTER-IP : 10.100.150.226
+EXTERNAL-IP : a9c80302579b94c7784760e886b08b09-2032302426.us-east-2.elb.amazonaws.com
+PORT(S) : 80:31167/TCP
+SELECTOR : app=simple-jwt-api
+
